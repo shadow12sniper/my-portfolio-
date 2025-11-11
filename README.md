@@ -1,37 +1,50 @@
-# minimalist-vision
+# Asamu Fikayo’s Frontend Portfolio
 
-A minimalist portfolio website for Lena Hart, a visual designer based in Berlin. This project showcases Lena’s design philosophy—clarity through simplicity—using clean layouts, modern typography, and a monochrome aesthetic.
-
-## 🖼️ Features
-
-- Responsive design for mobile, tablet, and desktop
-- Hero section with tagline and call-to-action
-- Portfolio gallery with project cards
-- About section with bio and design tools
-- Testimonials from fictional clients
-- Contact form with input validation
-
-## 🛠️ Tech Stack
-
-- HTML5  
-- CSS3 (Flexbox & Grid)  
-- JavaScript (vanilla)
-
-## 🎨 Design Direction
-
-Inspired by brands like Stripe and Vercel, the site uses:
-- Monochrome palette with subtle accent colors
-- Generous white space
-- Typography: Inter or Poppins
-
-## 🚀 Deployment
-
-Live site hosted on [Netlify](https://www.netlify.com/) or [GitHub Pages](https://pages.github.com/)
-
-## ✨ Credits
-
-Designed and developed by Fikayo as part of a front-end portfolio series.
+Welcome!  
+Explore my web frontend projects below:
 
 ---
 
-Want help writing a short bio for Lena or generating placeholder projects for her gallery? I’ve got ideas.
+## 🍽️ [The Copper Spoon](https://github.com/shadow12sniper/The-Copper-Spoon)
+A modern restaurant online store web app for browsing and ordering.
+
+**Features:**
+- Interactive menu with images
+- Online ordering and payment
+- Responsive design for mobile and desktop
+
+**Technologies:** (Update with actual tech used: React, Vue, HTML/CSS, JavaScript, etc.)
+
+---
+
+## ✍️ [The Everyday Edit](https://github.com/shadow12sniper/The-Everyday-Edit)
+A clean blog post publishing platform for everyday writers.
+
+**Features:**
+- Write, edit, and publish posts
+- User profiles and authentication
+- Light/dark mode
+
+**Technologies:** (Update: e.g., React, Tailwind CSS, Firebase, etc.)
+
+---
+
+## ✅ [To-Do List](https://github.com/shadow12sniper/to-do-list)
+A simple and effective app for managing daily tasks.
+
+**Features:**
+- Add, edit, and delete tasks
+- Task completion filters
+- Reminders (if applicable)
+
+**Technologies:** (Update: e.g., JavaScript, React, localStorage, etc.)
+
+---
+
+## 📞 Contact
+- [GitHub](https://github.com/shadow12sniper)
+- [LinkedIn](https://ng.linkedin.com/in/asamu-fikayo-710bb8374)
+
+---
+
+Feel free to explore the repositories above or reach out!
